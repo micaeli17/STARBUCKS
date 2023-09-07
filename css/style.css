@@ -41,3 +41,32 @@
 .header__container-user-mobile i {
     color: #fff;
 }
+main__contiene-logo {
+    display: none;
+    }
+    
+    .main {
+        padding: 15px 15px 60px;
+        margin-top: 80px;
+    }
+    
+    .main__titulo {
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 1.2;
+    }
+    
+    .main__titulo span {
+        color: #006241;
+    }
+    
+    .main__descripcion {
+        font-weight: bolder;
+        margin-top: 20px;
+    }
+    
+    .main__contiene-texto {
+        display: flex;
+        flex-direction: column;
+    }
+    
